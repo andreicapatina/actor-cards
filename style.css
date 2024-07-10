@@ -23,8 +23,8 @@ body h1 {
 
 .card {
     flex-basis: 280px;
-    box-shadow: 0 0px 10px #c9c9c9;
     margin-top: 80px;
+    box-shadow: 0 0px 10px #c9c9c9;
 }
 
 .card-inner-container {
@@ -147,7 +147,6 @@ body h1 {
     align-items: flex-end;
     font-size: 14px;
     line-height: 1.4;
-
 }
 
 .award_info * {
